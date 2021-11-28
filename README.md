@@ -1,5 +1,5 @@
 <h1 align="center"> Dex <br><p></p> ✨🇸🇪 </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=HonestlyDex&label=Profile%20views&color=22a83f&style=flat" alt="HonestlyDex"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HonestlyDex&label=Profile%20views&color=e609ed&style=flat" alt="HonestlyDex"/></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HonestlyDex&show_icons=true&theme=dark&locale=en" alt="HonestlyDex"/></p>
 
 <!--
