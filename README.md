@@ -6,7 +6,7 @@
 <br>
 <br>
 <a href="https://github.com/HonestlyDex/">
-        <img src="https://komarev.com/ghpvc/?username=HonestlyDex&color=pink" />
+        <p align="center"> <img src="https://komarev.com/ghpvc/?username=HonestlyDex&label=Profile%20views&color=22a83f&style=flat" alt="HonestlyDex"/></p>
   </a> 
 <br>
 <br>
