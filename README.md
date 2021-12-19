@@ -1,5 +1,5 @@
 <h2 align="center">
-    <strong>Dex</strong> ✨🇸🇪>
+    <strong>Dex</strong> ✨🇸🇪
 </h2>
 <p align="center">
     Hey There! I'm Dex! I'm a developer that specializes in R-Lua & JavaScript! I do use some other languages like HTML and Python, but I mostly work in those two. I have contact information below, feel free to message me! 
