@@ -11,9 +11,8 @@
 <br>
 <br>
 <a href="https://discord.com/users/634524618564304916">
-        <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/634524618564304916)](https://discord.com/users/634524618564304916)" />
+        <img src="https://lanyard-profile-readme.vercel.app/api/603948445362946084?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
     </a>
-</p>
 &nbsp;
 <p align="center">
     <a href="https://github.com/HonestlyDex/">
