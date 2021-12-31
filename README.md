@@ -8,11 +8,6 @@
 <a href="https://github.com/HonestlyDex/">
         <p align="center"> <img src="https://komarev.com/ghpvc/?username=HonestlyDex&label=Profile%20views&color=22a83f&style=flat" alt="HonestlyDex"/></p>
   </a> 
-<br>
-<br>
-<a href="https://discord.com/users/634524618564304916">
-        <img src="https://lanyard-profile-readme.vercel.app/api/738004850880544900?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
-    </a>
 &nbsp;
 <p align="center">
     <a href="https://github.com/HonestlyDex/">
