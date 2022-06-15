@@ -10,8 +10,9 @@
   <img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954" alt="music">
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
-  <img src="https://img.shields.io/badge/Knows-Lua-blue/?logo=Lua&logoColor=warning&color=blue" alt="lua">
+  <img src="https://img.shields.io/badge/Knows-Lua/?logo=Lua&logoColor=warning&color=blue" alt="lua">
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
+  <img src="https://img.shields.io/badge/Learning-Python?logo=python" alt="python">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
   <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
   <img alt="opera" src="https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d">
@@ -25,10 +26,10 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/HonestlyDex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HonestlyDex" height="30" width="40" /></a>
-<a href="https://discord.io/dexhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+<a href="https://discord.gg/yHmN8j3Hd5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://twitter.com/HonestlyDex" target="blank"><img src="https://img.shields.io/twitter/follow/HonestlyDex?logo=twitter&style=for-the-badge" alt="HonestlyDex" /></a> <br>
-<a href="https://discord.io/dexhub" target="blank"><img align="center" src="https://img.shields.io/discord/840084542332076102?label=Server&logo=discord&logoColor=white&style=for-the-badge" alt="discord"></a></p>
+<a href="https://discord.gg/yHmN8j3Hd5" target="blank"><img align="center" src="https://img.shields.io/discord/840084542332076102?label=Server&logo=discord&logoColor=white&style=for-the-badge" alt="discord"></a></p>
 
 
 <h2 align="left">Stats</h2>
