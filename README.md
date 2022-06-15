@@ -1,4 +1,4 @@
-<img alt="Typing Effect" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hey!+I'm+Dex!;Web Developer;Exploit Developer;Contact+me+on+discord!">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C43CF7&lines=Hey!+I'm+Dex!;Web+Developer;Exploit+Developer;Contact+me+on+Discord!)](https://git.io/typing-svg)
 
 <h1 align="center"><strong>Dex</strong> ✨🇸🇪</h1>
 
