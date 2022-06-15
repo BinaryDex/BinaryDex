@@ -4,11 +4,9 @@
     
 <h2>About me</h2>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" /> 
+  <img src="https://komarev.com/ghpvc/?username=BinaryDex&label=Profile Visitors&color=be33d4&style=flat" alt="BinaryDex" /> 
   <img src="https://img.shields.io/badge/OS-macOS-lightgrey/?logo=apple" alt="os">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">
-  <img src="https://img.shields.io/badge/Editor-Sublime%20Text-blue/?logo=sublimetext&logoColor=warning&color=orange" alt="editor2">
-  <img src="https://img.shields.io/reddit/user-karma/combined/3kh0_reddit?logo=reddit" alt="Reddit User Karma">
   <img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954" alt="music">
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
@@ -26,7 +24,7 @@
     
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/HonestlyDex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3kh0_" height="30" width="40" /></a>
+<a href="https://twitter.com/HonestlyDex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HonestlyDex" height="30" width="40" /></a>
 <a href="https://discord.io/dexhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://twitter.com/HonestlyDex" target="blank"><img src="https://img.shields.io/twitter/follow/HonestlyDex?logo=twitter&style=for-the-badge" alt="HonestlyDex" /></a> <br>
