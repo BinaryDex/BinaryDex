@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C43CF7&lines=Hey!+I'm+Dex!;Web+Developer;Exploit+Developer;Contact+me+on+Discord!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C43CF7&lines=%3E+Hey!+I'm+Dex!;%3E+Web+Developer;%3E+Exploit+Developer;%3E+Contact+me+on+Discord!)](https://git.io/typing-svg)
 <h1 align="center"><strong>Dex</strong> ✨🇸🇪</h1>
 
 <p align="center">
