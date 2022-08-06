@@ -29,7 +29,7 @@
 <a href="https://discord.gg/yHmN8j3Hd5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://twitter.com/HonestlyDex" target="blank"><img src="https://img.shields.io/twitter/follow/HonestlyDex?logo=twitter&style=for-the-badge" alt="HonestlyDex" /></a> <br>
-<a href="https://discord.gg/yHmN8j3Hd5" target="blank"><img align="center" src="https://img.shields.io/discord/840084542332076102?label=Server&logo=discord&logoColor=white&style=for-the-badge" alt="discord"></a></p>
+<a href="https://discord.gg/yHmN8j3Hd5" target="blank"><img align="center" src="https://img.shields.io/discord/861444926213324800?label=Server&logo=discord&logoColor=white&style=for-the-badge" alt="discord"></a></p>
 
 
 <h2 align="left">Stats</h2>
