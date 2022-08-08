@@ -17,7 +17,6 @@
   <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
   <img alt="opera" src="https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d">
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
-  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/BinaryDex?label=Sponsors&logo=githubsponsors&style=flat">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/BinaryDex?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/BinaryDex?color=g&label=User%20Followers&logo=github">
 </p>
