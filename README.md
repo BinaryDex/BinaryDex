@@ -1,8 +1,6 @@
 $$
-\color{pink}\fbox{\textbf{\textsf{READ IF CUTE}}}
+\color{pink}\fbox{\textbf{\textsf{DEX/IRIS}}}
 $$
-
-<h1 align="center"><strong>dex</strong></h1>
     
 <h2>About me</h2>
 <p align="left"> 
