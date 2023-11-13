@@ -1,5 +1,5 @@
 $$
-\color{pink}\fbox{\textbf{\textsf{DEX/IRIS}}}
+\color{pink}\fbox{\textbf{\textsf{DEX / IRIS}}}
 $$
     
 <h2>About me</h2>
