@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C43CF7&lines=%3E+Hey!+I'm+Dex!;%3E+Web+Developer;%3E+Exploit+Developer;%3E+Contact+me+on+Discord!)](https://git.io/typing-svg)
-<h1 align="center"><strong>dex</strong></h1>
 $$
 \color{pink}\fbox{\textbf{\textsf{READ IF CUTE}}}
 $$
+
+<h1 align="center"><strong>dex</strong></h1>
     
 <h2>About me</h2>
 <p align="left"> 
