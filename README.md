@@ -27,7 +27,6 @@ $$
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
   <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
   <img alt="opera" src="https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d">
-  <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=discord&title=MultiLanguage,Repositories,Commits,Experience,Stars,Followers,Issues,PullRequest&margin-w=10" alt="BinaryDex" /></a> </p>
 
