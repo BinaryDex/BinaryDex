@@ -28,7 +28,7 @@ $$
   <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
   <img alt="opera" src="https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d">
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=discord&title=MultiLanguage,Repositories,Commits,Experience,Stars,Followers,Issues,PullRequest&margin-w=10" alt="BinaryDex" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=discord&title=MultiLanguage,Repositories,Commits,Experience,Stars,Followers,Issues,PullRequest&margin-w=8" alt="BinaryDex" /></a> </p>
 
 <h2 align="left">Stats</h2>
 
