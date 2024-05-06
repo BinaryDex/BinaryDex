@@ -25,20 +25,9 @@ $$
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=discord" alt="BinaryDex" /></a> </p>
     
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://twitter.com/HonestlyDex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HonestlyDex" height="30" width="40" /></a>
-<a href="https://discord.gg/yHmN8j3Hd5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-</p>
-<p align="left"> <a href="https://twitter.com/HonestlyDex" target="blank"><img src="https://img.shields.io/twitter/follow/HonestlyDex?logo=twitter&style=for-the-badge" alt="HonestlyDex" /></a> <br>
-<a href="https://discord.gg/yHmN8j3Hd5" target="blank"><img align="center" src="https://img.shields.io/discord/861444926213324800?label=Server&logo=discord&logoColor=white&style=for-the-badge" alt="discord"></a></p>
-
-
 <h2 align="left">Stats</h2>
 
-<p align="center">
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=BinaryDex&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="BinaryDex" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=BinaryDex&show_icons=true&theme=dark&locale=en" alt="BinaryDex" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=BinaryDex&theme=dark" alt="BinaryDex" /></p><br>
-</p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=BinaryDex&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="BinaryDex" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=BinaryDex&show_icons=true&theme=dark&locale=en" alt="BinaryDex" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BinaryDex&theme=dark" alt="BinaryDex" /></p><br>
   </html>
