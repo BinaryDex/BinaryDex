@@ -13,7 +13,7 @@ $$
 </p>
     
 <h2>About me</h2>
-<p align="left"> 
+<p align="center"> 
   <img src="https://img.shields.io/badge/OS-macOS-lightgrey/?logo=apple" alt="os">
   <img src="https://img.shields.io/badge/OS-Windows-blue/?logo=windows&color=1a3af0" alt="os">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">
@@ -29,8 +29,8 @@ $$
   <img alt="opera" src="https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d">
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=discord" alt="BinaryDex" /></a> </p>
-    
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&title=MultiLanguage,Repositories,Commits,Experience,Stars,Followers,Issues,PullRequest" alt="BinaryDex" /></a> </p>
+
 <h2 align="left">Stats</h2>
 
 <p align="center">
