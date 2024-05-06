@@ -5,6 +5,12 @@ $$
 <p align="center">
 <a href="https://discord.com/users/634524618564304916" align="center"><img src="https://lanyard.cnrad.dev/api/634524618564304916"></a>
 </p>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BinaryDex&color=blue&label=Profile+Visitors" alt="BinaryDex" /> 
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Piplup7575?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Piplup7575?color=g&label=User%20Followers&logo=github">
+</p>
     
 <h2>About me</h2>
 <p align="left"> 
