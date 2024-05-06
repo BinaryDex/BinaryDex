@@ -27,7 +27,8 @@ $$
     
 <h2 align="left">Stats</h2>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=BinaryDex&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="BinaryDex" /></p>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=BinaryDex&show_icons=true&theme=dark&locale=en" alt="BinaryDex" /></p>
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=BinaryDex&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="BinaryDex" />
+<img src="https://github-readme-stats.vercel.app/api?username=BinaryDex&show_icons=true&theme=dark&locale=en" alt="BinaryDex" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BinaryDex&theme=dark" alt="BinaryDex" /></p><br>
   </html>
